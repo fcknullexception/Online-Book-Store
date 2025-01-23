@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:56144",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Илья\\YandexDisk\\MyDoc\\Prog\\Online-Book-Store\\Online-Book-Store.Server\\..\\online-book-store.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
